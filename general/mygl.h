@@ -2,6 +2,8 @@
 #define MYGL_H
 
 #include <QGLWidget>
+#include <GL/gl.h>
+#include <GL/glu.h>
 
 struct MyGLfloat2d {
   GLfloat x, y;

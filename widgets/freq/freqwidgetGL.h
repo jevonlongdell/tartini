@@ -27,6 +27,8 @@
 #include <QPaintEvent>
 #include <QPaintDevice>
 #include <QGLWidget>
+#include <GL/gl.h>
+#include <GL/glu.h>
 
 #include "gdata.h"
 #include "channel.h"

@@ -16,6 +16,8 @@
 #define VIBRATOTUNERWIDGET_H
 
 #include <QGLWidget>
+#include <GL/gl.h>
+#include <GL/glu.h>
 
 class VibratoTunerWidget : public QGLWidget {
   Q_OBJECT

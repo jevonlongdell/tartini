@@ -1,8 +1,8 @@
+#include <cstdio>
 #define _GLIBCXX_USE_C99
 #define __WANT_EXTENSIONS__
 //#include <math.h>
 #include <cmath>
-#include <cstdio>
 //#define _GLIBCXX_USE_C99_COMPLEX 1
 #include <complex>
 #include <stdlib.h>

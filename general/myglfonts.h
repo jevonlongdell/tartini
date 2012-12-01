@@ -2,6 +2,8 @@
 #define MYGLFONTS_H
 
 #include <QGLWidget>
+#include <GL/gl.h>
+#include <GL/glu.h>
 #include <QString>
 
 /** 

@@ -16,6 +16,8 @@
 #define VIBRATOSPEEDWIDGET_H
 
 #include <QGLWidget>
+#include <GL/gl.h>
+#include <GL/glu.h>
 
 class VibratoSpeedWidget : public QGLWidget {
   Q_OBJECT

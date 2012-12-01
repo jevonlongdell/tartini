@@ -16,6 +16,8 @@
 #define VIBRATOPERIODWIDGET_H
 
 #include <QGLWidget>
+#include <GL/gl.h>
+#include <GL/glu.h>
 
 class VibratoPeriodWidget : public QGLWidget {
   Q_OBJECT

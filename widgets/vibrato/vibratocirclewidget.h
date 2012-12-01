@@ -16,6 +16,8 @@
 #define VIBRATOCIRCLEWIDGET_H
 
 #include <QGLWidget>
+#include <GL/gl.h>
+#include <GL/glu.h>
 
 class VibratoCircleWidget : public QGLWidget {
   Q_OBJECT

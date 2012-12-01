@@ -21,6 +21,8 @@
 #include <QMouseEvent>
 #include <QWheelEvent>
 #include <vector>
+#include <GL/gl.h>
+#include <GL/glu.h>
 
 class Piano3d;
 
